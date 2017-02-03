@@ -3,6 +3,15 @@ CACHE MANIFEST
 CACHE:
 index.html
 css/style.css
+css/print.css
+img/pic1.jpg
+img/pic2.jpg
+img/pic3.jpg
+img/profilepic.jpg
+img/vitalichar_profilepic.jpg
+js/perfmatters.js
+views/images/pizzeria_small.jpg
+https://www.google-analytics.com/analytics.js
 
 NETWORK:
 *
