@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#DATE 2017-02-03
+CACHE:
+index.html
+css/style.css
+
+NETWORK:
+*
+
+FALLBACK:
+#static.html
